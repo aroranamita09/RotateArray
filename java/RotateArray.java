@@ -1,4 +1,4 @@
-package com.stackroute
+package com.stackroute;
 
 public class RotateArray {
     /*Function to left rotate arr[] of size n by d*/
